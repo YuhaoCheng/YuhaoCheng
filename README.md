@@ -1,5 +1,5 @@
 ### Hi there, I'm Yuhao Cheng 👋
-- 🔭 I’m currently working on [PyAnomaly](https://github.com/YuhaoCheng/PyAnomaly)
+<!-- - 🔭 I’m currently working on [PyAnomaly](https://github.com/YuhaoCheng/PyAnomaly) -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuhaoCheng&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </br>
