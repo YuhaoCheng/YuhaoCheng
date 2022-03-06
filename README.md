@@ -1,11 +1,10 @@
 ### Hi there, I'm Yuhao Cheng 👋
-<!-- - 🔭 I’m currently working on [PyAnomaly](https://github.com/YuhaoCheng/PyAnomaly) -->
-</br>
-News:
-- The PyAnomaly2 will come soon! (2022/03/06)
+- 🔭 I’m currently working on [PyAnomaly2](https://github.com/YuhaoCheng/PyAnomaly), and it will come soon! (2022/03/06)</br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuhaoCheng&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoCheng&layout=compact&theme=vue&hide=java,html)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoCheng&layout=compact&theme=vue&hide=java,html)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
 <!--
 **YuhaoCheng/YuhaoCheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
