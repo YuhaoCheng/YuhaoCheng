@@ -1,6 +1,6 @@
 ### Hi there, I'm Yuhao Cheng 👋
 - 🔭 I’m currently working on [PyAnomaly2](https://github.com/YuhaoCheng/PyAnomaly), and it will come soon! (2022/03/06)</br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuhaoCheng&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuhaoCheng&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuhaoCheng&layout=compact&theme=vue&hide=java,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
